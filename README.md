@@ -66,12 +66,6 @@
 
 ---
 
-## Источник данных
-
-Campbell, Mahon (1974), openML dataset “prnn_crabs”. Описание — B.D. Ripley, _Datasets for Pattern Recognition and Neural Networks_[attached_file:1].
-
----
-
 ## Заключение и рекомендации
 
 - Морфометрические признаки позволяют достичь высокой точности определения пола.
